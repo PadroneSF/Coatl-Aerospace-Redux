@@ -1,18 +1,11 @@
-![Coatl Aerospace](http://imgur.com/Hrhr9ku.png)  
-This is a Kerbal Space Program probe part expansion pack inspired by real missions from the mid-1960s to now. 
+Coatl AeroSpace Redux is a re-release of Raveloda's [Coatl Aerospace Probes Plus!](https://github.com/raveloda/Coatl-Aerospace/) with behind the scenes changes at release.  I'm starting with the existing .17 Beta as the production release.  These changes are mostly housekeeping kinds of things.  Massive credit to Raveloda and the [contributors](https://github.com/raveloda/Coatl-Aerospace/graphs/contributors) to his project!
+
+<div align="center">
+  <img src="http://imgur.com/Hrhr9ku.png">
+  
+A Kerbal Space Program probe part expansion pack inspired by real missions from the mid-1960s to now. 
+</div>
   
 ## How to Download  
   
-### Latest Public Release  
-[Download the latest public release here](https://github.com/raveloda/Coatl-Aerospace/releases/)  
-  
-### Latest Developer Release  
-The Github page is regulary updated with fixes and parts in progress between public releases. This is the definite latest version of the mod. To participate in testing or to try out the newest stuff, click the green "Clone or Download" button at the top-right of this page. Choose the "Download ZIP" option.  
-  
-![Download Button](http://imgur.com/PQW2Y2G.png)  
-  
-Unzip the downloaded files and copy all the contents of the "GameData" folder (Not the GameData folder itself) to you KSP Install Directory\GameData folder.  
-  
-Please be sure to drop by the [Mod's official Forum thread](http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v0142-beta-102316/) to leave me some feedback, suggestions or just a like and a chat. If you spot a bug or problem while play testing, you can let me know by clicking the "Issues" tab at the top of this page and then clicking the green "New Issue" button. Thank you for checking out my mod!  
-  
-~Cheers!
+### Coming Soon(ish)
