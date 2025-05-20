@@ -2,6 +2,10 @@ Coatl Aerospace Redux - Forked from raveloda/Coatl-Aerospace
 
 May 20, 2025 - Bug Fix ************************************************************************************************************
 
+Still learning.  Must commit ALL changes before creating even a Draft release.
+
+May 20, 2025 - Bug Fix ************************************************************************************************************
+
 Correct a version file error that was preventing CKAN from picking it up.  Thanks @averageksp!
 
 May 18, 2025 - Initial Release *****************************************************************************************************
